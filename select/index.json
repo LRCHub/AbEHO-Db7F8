@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "いつでも夢を",
+  "base_artist": "橋幸夫／吉永小百合",
+  "createdAt": "2025-12-14T08:53:34.694947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつでも夢を",
+      "artist": "Yukio Hashi",
+      "has_synced": false,
+      "path": "select/01_いつでも夢を_Yukio_Hashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫・吉永小百合",
+      "has_synced": true,
+      "path": "select/02_いつでも夢を_橋幸夫・吉永小百合.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫&吉永小百合",
+      "has_synced": true,
+      "path": "select/03_いつでも夢を_橋幸夫&吉永小百合.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫　吉永小百合",
+      "has_synced": true,
+      "path": "select/04_いつでも夢を_橋幸夫_吉永小百合.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫",
+      "has_synced": true,
+      "path": "select/05_いつでも夢を_橋幸夫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫 & 吉永小百合",
+      "has_synced": false,
+      "path": "select/pl_01_いつでも夢を_橋幸夫_&_吉永小百合.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫 & 吉永小百合",
+      "has_synced": false,
+      "path": "select/pl_02_いつでも夢を_橋幸夫_&_吉永小百合.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫 & 吉永小百合",
+      "has_synced": false,
+      "path": "select/pl_03_いつでも夢を_橋幸夫_&_吉永小百合.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫 & 吉永小百合",
+      "has_synced": false,
+      "path": "select/pl_04_いつでも夢を_橋幸夫_&_吉永小百合.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "いつでも夢を",
+      "artist": "橋幸夫 & 吉永小百合",
+      "has_synced": false,
+      "path": "select/pl_05_いつでも夢を_橋幸夫_&_吉永小百合.txt"
+    }
+  ]
+}
